@@ -22,6 +22,9 @@ to improve Botium Toys’ security posture.
 
 
 # Risk Assessment
+**VIEW THE FINAL CHECKLIST HERE**
+- [Botium Toys_ Controls and Compliance Checklist.pdf](https://github.com/Kamorrra/Botium-Toys-Audit/files/14862214/Botium.Toys_.Controls.and.Compliance.Checklist.pdf)
+
 
 ### RISK DESCRIPTION
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards.
